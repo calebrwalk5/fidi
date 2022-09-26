@@ -6,3 +6,5 @@ pytest
 requests
 torch
 torchvision
+pillow
+min_dalle
