@@ -1,11 +1,7 @@
 # Fidi
 A DALL-E fork<br>
 ### How to use
-Open Command Prompt in the folder
-```
-start INSTALL.bat
-start RUN.bat
-```
+Double click ```INSTALL.bat``` then ```RUN.bat```. Make sure you have Python 3.10 or newer installed ahead of time.
 ### Samples
 <img src="./src/generated.png"></img><img src="./src/brain.png"></img><br>
 <img src="./src/dali.png"></img><img src="./src/art.png"></img>
