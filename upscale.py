@@ -133,7 +133,7 @@ def main():
         resized = pixelMapping(img, args.scale)
         resized = bilinearInterpolation(resized, args.scale)
 
-    cv2.imwrite("new" + args.imageName, resized)
+    cv2.imwrite("upscaled-" + args.imageName, resized)
 
     #===================================================================#
     # Comment imwrite ^^^ and uncomment the below lines for live preview 
