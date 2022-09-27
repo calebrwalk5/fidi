@@ -7,3 +7,4 @@ A DALL-E fork
 https://stackhowto.com/batch-file-to-get-input-from-user/<br>
 https://github.com/openai/DALL-E<br>
 https://github.com/kuprel/min-dalle<br>
+https://github.com/Qirias/Python-Image-Upscale<br>
