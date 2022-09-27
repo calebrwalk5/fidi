@@ -1,6 +1,10 @@
 # Fidi
-A DALL-E fork
-
+A DALL-E fork<br>
+```
+start INSTALL.bat
+start RUN.bat
+```
+# Samples
 <img src="./src/generated.png"></img><img src="./src/brain.png"></img><br>
 <img src="./src/dali.png"></img><img src="./src/art.png"></img>
 # Thank you
