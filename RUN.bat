@@ -6,3 +6,5 @@ echo upscale?
 pause
 python upscale.py 2 generated.png bilinear
 del generated.png
+echo upscaled!
+pause
