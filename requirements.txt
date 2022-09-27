@@ -8,3 +8,5 @@ torch
 torchvision
 pillow
 min_dalle
+argparse
+opencv-python
