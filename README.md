@@ -1,5 +1,6 @@
 # Fidi
 A DALL-E fork<br>
+Open Command Prompt in the folder
 ```
 start INSTALL.bat
 start RUN.bat
