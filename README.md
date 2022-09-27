@@ -6,10 +6,10 @@ Open Command Prompt in the folder
 start INSTALL.bat
 start RUN.bat
 ```
-# Samples
+### Samples
 <img src="./src/generated.png"></img><img src="./src/brain.png"></img><br>
 <img src="./src/dali.png"></img><img src="./src/art.png"></img>
-# Thank you
+### Thank you
 https://stackhowto.com/batch-file-to-get-input-from-user/<br>
 https://github.com/openai/DALL-E<br>
 https://github.com/kuprel/min-dalle<br>
